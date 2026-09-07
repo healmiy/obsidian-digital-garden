@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-garden",
-	"version": "1.0.0",
+	"version": "99.99.99",
 	"description": "A plugin used for publishing notes to a digital garden",
 	"main": "main.js",
 	"scripts": {
